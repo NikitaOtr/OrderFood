@@ -1,0 +1,6 @@
+C:\Users\79622\Desktop\Order\Order\Menu\bin\Debug\Menu.dll
+C:\Users\79622\Desktop\Order\Order\Menu\bin\Debug\Menu.pdb
+C:\Users\79622\Desktop\Order\Order\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+C:\Users\79622\Desktop\Order\Order\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\79622\Desktop\Order\Order\Menu\obj\Debug\Menu.dll
+C:\Users\79622\Desktop\Order\Order\Menu\obj\Debug\Menu.pdb
